@@ -1,0 +1,11 @@
+h2{
+    color:blue;
+    background-color: orange;
+    padding:5px;
+}
+p {
+    background-image: url("images/ban4.jpeg");
+    padding:5px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 20px;
+}
